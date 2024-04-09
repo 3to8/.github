@@ -31,3 +31,6 @@
 </div>
 
 
+<div align="right" name="footer">
+  Edit by @dduneon
+</div>
