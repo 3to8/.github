@@ -30,6 +30,7 @@
   
 </div>
 
+<br>
 
 <div align="right" name="footer">
   Edit by @dduneon
